@@ -1,0 +1,14 @@
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.deps.json
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.runtimeconfig.json
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.runtimeconfig.dev.json
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.dll
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.pdb
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.csprojAssemblyReference.cache
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.RazorAssemblyInfo.cache
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.RazorAssemblyInfo.cs
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.AssemblyInfo.cs
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.RazorTargetAssemblyInfo.cache
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.dll
+C:\Projetos\Cursos\dotNET\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.pdb
