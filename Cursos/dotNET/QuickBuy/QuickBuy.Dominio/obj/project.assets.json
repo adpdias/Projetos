@@ -691,11 +691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Cursos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
       "projectName": "QuickBuy.Dominio",
-      "projectPath": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Cursos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+      "projectPath": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
       "packagesPath": "C:\\Users\\adpdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Cursos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adpdi\\AppData\\Roaming\\NuGet\\NuGet.Config",

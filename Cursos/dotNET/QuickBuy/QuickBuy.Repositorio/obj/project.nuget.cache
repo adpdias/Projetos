@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HfQsb4pc/gAPk8kjRnOiXYlJyrt7mDCQP29uaEUxHspkIqidRNI142hES7sppAggn/UbVmuMNk6OJ0+kN1aGTA==",
+  "dgSpecHash": "BE5eLZrOEh83sGH0JdMESumt5291hRb2+8ivKizyZhqrL3VKIUejamM16WeotbVykEMz2fCJ6mxrPHdwtKT+MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Cursos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Repositorio\\QuickBuy.Repositorio.csproj",
+  "projectFilePath": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Repositorio\\QuickBuy.Repositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adpdi\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\adpdi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
