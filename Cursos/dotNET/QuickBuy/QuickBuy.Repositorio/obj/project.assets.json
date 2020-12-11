@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "QuickBuy.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/QuickBuy.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuickBuy.Dominio.dll": {}
+        }
       }
     }
   },
@@ -678,11 +688,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "QuickBuy.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../QuickBuy.Dominio/QuickBuy.Dominio.csproj",
+      "msbuildProject": "../QuickBuy.Dominio/QuickBuy.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "QuickBuy.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -711,7 +727,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\adpdi\\OneDrive\\Documentos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj": {
+              "projectPath": "C:\\Users\\adpdi\\OneDrive\\Documentos\\Projetos\\Cursos\\dotNET\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

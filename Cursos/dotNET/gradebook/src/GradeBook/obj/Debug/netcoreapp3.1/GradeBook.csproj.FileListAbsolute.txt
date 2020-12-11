@@ -24,3 +24,16 @@ C:\Users\adpdi\OneDrive\Documentos\Cursos\Projetos\Cursos\dotNET\gradebook\src\G
 C:\Users\adpdi\OneDrive\Documentos\Cursos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
 C:\Users\adpdi\OneDrive\Documentos\Cursos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
 C:\Users\adpdi\OneDrive\Documentos\Cursos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
