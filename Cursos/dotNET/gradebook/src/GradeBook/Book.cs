@@ -14,7 +14,14 @@ namespace GradeBoook
 
         public void AddGrade(double grade)
         {
-            grades.Add(grade);      
+            if(grade <= 100 && grade >= 0)
+            {
+                grades.Add(grade);      
+            }
+            else
+            {
+                System.Console.WriteLine("Invalid value");
+            }
         }
 
         public Statistics GetStatistics()
@@ -23,6 +30,7 @@ namespace GradeBoook
             result.Average = 0.0;
             result.High = double.MinValue;
             result.Low = double.MaxValue;
+
             foreach(var grade in grades)
             {
                 result.Low = Math.Min(grade, result.Low);
