@@ -7,9 +7,18 @@
 </head>
 <body>
 
-    <div></div>
+    <div id="start">
+        <h1>{{ message }}</h1>
+    </div>
 
     <script src="vue.js"></script>
-    
+    <script>
+        let app = new Vue({
+            el: '#start',
+            data: {
+                message: 'Hello World. Estou usando Vue!'
+            }
+        })
+    </script>    
 </body>
 </html>
