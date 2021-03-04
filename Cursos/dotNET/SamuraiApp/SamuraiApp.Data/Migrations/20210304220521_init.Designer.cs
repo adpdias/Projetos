@@ -10,8 +10,8 @@ using SamuraiApp.Data;
 namespace SamuraiApp.Data.Migrations
 {
     [DbContext(typeof(SamuraiContext))]
-    [Migration("20210303213549_newrelationships")]
-    partial class newrelationships
+    [Migration("20210304220521_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

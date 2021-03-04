@@ -72,3 +72,9 @@ C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
