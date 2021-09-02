@@ -1,4 +1,3 @@
-C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csprojAssemblyReference.cache
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.AssemblyInfoInputs.cache
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.AssemblyInfo.cs
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csproj.CoreCompileInputs.cache
@@ -10,3 +9,4 @@ C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.dll
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.pdb
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csproj.CopyComplete
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csproj.AssemblyReference.cache

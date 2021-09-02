@@ -85,7 +85,6 @@ C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\bin\D
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
@@ -93,3 +92,4 @@ C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\D
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.dll
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
 C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+C:\Users\adpdi\OneDrive\Documentos\Projetos\Cursos\dotNET\SamuraiApp\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.AssemblyReference.cache

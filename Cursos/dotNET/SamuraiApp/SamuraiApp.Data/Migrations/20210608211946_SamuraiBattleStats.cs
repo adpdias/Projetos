@@ -2,7 +2,7 @@
 
 namespace SamuraiApp.Data.Migrations
 {
-    public partial class init : Migration
+    public partial class SamuraiBattleStats : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
