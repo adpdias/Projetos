@@ -1,8 +1,0 @@
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.deps.json
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.csproj.CoreCompileInputs.cache
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.AssemblyInfoInputs.cache
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.AssemblyInfo.cs
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
-C:\Projetos\Cursos\dotNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb
